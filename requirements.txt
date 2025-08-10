@@ -1,5 +1,5 @@
-pytest==8.2.2
-requests==2.32.3
-PyYAML==6.0
-allure-pytest==2.13.5
-python-dotenv==1.0.0
+pytest
+requests
+PyYAML
+allure-pytest
+python-dotenv
